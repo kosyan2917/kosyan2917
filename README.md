@@ -2,7 +2,7 @@ Hi, I’m Nikita
 
 I’m interested in python development and data analysis
 
-I’m currently learning everything i can learn
+I’m currently learning everything I can learn
 
 <!---
 kosyan2917/kosyan2917 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
